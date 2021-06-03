@@ -1,0 +1,524 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An act of Common Council for the better regulation of the courts of law in the Guild-Hall, London</title>
+            <author>City of London (England).</author>
+         </titleStmt>
+         <extent>Approx. 24KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B21824</idno><idno type="EEBO-CITATION">10268441</idno>
+  <idno type="VID">204619</idno>
+  <idno type="EEBO-PROQUEST">2264177796</idno>
+  
+            <idno type="STC">Wing E1003</idno>
+            <idno type="OCLC">10268441</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B21824)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 204619)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1382:14)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An act of Common Council for the better regulation of the courts of law in the Guild-Hall, London</title>
+                  <author>City of London (England).</author>
+               </titleStmt>
+               <extent>12 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by James Flesher,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1669.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Trinity College Library, Cambridge University.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="corporate_name">City of London (England). --  Mayor's Court.</term>
+               <term type="corporate_name">City of London (England). --  Sheriffs' Court.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-02 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-03 </date>
+            <label>Anne Simpson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-03 </date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:204619:1"/>
+            <pb facs="tcp:204619:1"/>
+            <p> AN ACT OF COMMON COUNCIL For the better Regulation of the COURTS of LAW In the GUILD-HALL <hi>LONDON.</hi>
+            </p>
+            <figure>
+               <figDesc>coat of arms for the city of London</figDesc>
+               <p>DOMINE DIRIGE NOS</p>
+            </figure>
+            <p>Printed by <hi>James Flesher,</hi> Printer to the Honou<g ref="char:EOLhyphen"/>rable City of <hi>LONDON,</hi> 1669.</p>
+            <pb facs="tcp:204619:2"/>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:204619:2"/>
+            <div type="council">
+               <p>Commune Concilium tent' in Camera <hi>Guihald'</hi> Civitatis <hi>London</hi> die Lunae, undecimo die <hi>Octobris,</hi> Anno Domini millesimo sexcentesimo sexagesimo no<g ref="char:EOLhyphen"/>no, Annóque Regni Domini nostri <hi>CAROLI</hi> Se<g ref="char:EOLhyphen"/>cundi, Dei gratiâ, <hi>Angliae, Scotiae, Franciae</hi> &amp; <hi>Hiberniae</hi> Regis, Fidei Defensoris, &amp;c. vicesimo primo, coram <hi>Willielmo Turner</hi> Milite, Majore Civitatis <hi>London, Sa<g ref="char:EOLhyphen"/>muele Starling</hi> Milite, Majore Electo dictae Civitatis, <hi>Johanne Frederick</hi> Milite, Aldermanno, <hi>Johanne Robinson</hi> Milite &amp; Baronetto, Alderm' ac Locum<g ref="char:EOLhyphen"/>tenente Turris <hi>London, Johanne Lawrence</hi> &amp; <hi>Willielmo Peake</hi> Militibus, Aldermannis, <hi>Johanne Howel</hi> Milite, Recordatore dictae Civitatis, <hi>Richardo Ford</hi> &amp; <hi>Will. Hooker,</hi> Militibus &amp; Aldermannis, <hi>Johanne Forth, Francisco Chaplin, Dannett' Forth, Will' Fluellin</hi> &amp; <hi>Johanne Randal,</hi> Armig', Alderm', &amp; <hi>Jacobo Edwards</hi> Arm', Alderm', ac uno Vicecomitum Civit' <hi>Lond',</hi> necnon majore parte Communiariorum de Communi Concil' ejusdem Civit' tunc &amp; ibidem assemblat'.</p>
+            </div>
+            <div type="act">
+               <head>
+                  <hi>An Act for the better Regulation of the Courts of Law in the <hi>Guild-Hall London.</hi>
+                  </hi>
+               </head>
+               <p>
+                  <seg rend="decorInit">W</seg>Hereas in the City of <hi>London</hi> there <note place="margin">
+                     <hi>The Antiquity a<gap reason="illegible" resp="#keyers" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> great conveniency the Courts in <hi>Lond<gap reason="illegible" resp="#keyers" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>
+                        </hi>
+                     </hi>
+                  </note> are <hi>Courts of Record</hi> holden of ancient Custome, that have cog<g ref="char:EOLhyphen"/>nizance of all Actions and Causes, both in Law and Equity, so that no Citizen néed to go beyond the Walls of the said City for spéedy Iustice; which Courts have béen in all times sup<g ref="char:EOLhyphen"/>plied with able Iudges, many of which, for their Worth and Learning, have béen advanced to places of great Honour and Dignity within these Realms;
+<pb n="2" facs="tcp:204619:3"/> And the <hi>KINGS</hi> and <hi>QUEENS</hi> of <hi>England,</hi> out of their great Care, and Princely Respect to the Citizens of <hi>London,</hi> have from time to time, by their respective Charters, granted and confirmed to the said City divers excellent Privileges and Immunities, which have not béen granted unto other Cities; amongst which it is not the least, That no Citizen should plead, or be compelled to plead, without the Walls of the said City, but in <note place="margin">
+                     <hi>Charters of <hi>H.</hi>
+                     </hi> 1. <hi>
+                        <gap reason="illegible" resp="#keyers" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>d most other Kings <gap reason="illegible" resp="#keyers" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>d Queens of <hi>Eng<g ref="char:EOLhyphen"/>
+                           <gap reason="illegible" resp="#keyers" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>d</hi> since the Con<g ref="char:EOLhyphen"/>
+                        <gap reason="illegible" resp="#keyers" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>est, (whereof di<g ref="char:EOLhyphen"/>
+                        <gap reason="illegible" resp="#keyers" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>s were granted in <gap reason="illegible" resp="#keyers" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>rliament,) No Ci<g ref="char:EOLhyphen"/>
+                        <gap reason="illegible" resp="#keyers" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>en shall be com<g ref="char:EOLhyphen"/>
+                        <gap reason="illegible" resp="#keyers" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>l'd to plead with<g ref="char:EOLhyphen"/>
+                        <gap reason="illegible" resp="#keyers" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>t the Walls of the <gap reason="illegible" resp="#keyers" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ty, &amp;c.</hi>
+                  </note> some few Cases excepted; and that Pleas should be holden in <hi>London</hi> for all Debts there made, ac<g ref="char:EOLhyphen"/>cording to ancient Custome; and that none of the Fréedome of the City should be impleaded at the Ex<g ref="char:EOLhyphen"/>chequer, or elsewhere, by Bill, but of those things which concern the <hi>KING</hi> or his Heirs:</p>
+               <p>And whereas by several Acts of Common Council of this City, still in force, it is enacted, That no <note place="margin">
+                     <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>d by ancient Acts <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> Common Council, <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>e Freemen are pro<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ited to sue one an<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>her out of the City, <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>en they may have <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>eir Recovery in <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>eir own Courts, up<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> great penalties, <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ich have been se<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ely inflicted upon <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>e Offenders. <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>he Freemen also <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>e bound by Oath <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> their admission to <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>e Freedome, not to <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>e one another out <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> the City, &amp;c. <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>e contrary not<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>thstanding much <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ed by Citizens of <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>te t<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>mes.</note> Fréeman shall implead another Fréeman out of the City for any thing done within the City, where he may have his Recovery before the Mayor and the Sheriffs, upon the Peins therein limited: and whereas every Fréeman of this City stands obliged by his Oath, That the Franchises and Customes of the City he shall maintain, and that he shall im<g ref="char:EOLhyphen"/>plead or sue no Fréeman out of the City, whilst he may have Right and Law within the same: and yet neverthelesse so it is, that of late years divers Citizens, of all qualities and degrées, (forgetting their said Oaths and the Privileges of the said City) have commenced, and do frequently commence, their Actions in other Courts without this City, or, be<g ref="char:EOLhyphen"/>ing commenced within the same, do cause them to be thence removed by Writs, whereby the Courts of Iustice within the City of <hi>London</hi> are not onely slighted, but the said Citizens, aswell for petty
+<pb n="3" facs="tcp:204619:3"/>
+                  <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>auses and small Debts as great, are troubled in <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ther Courts, to their very great Charge and Vexa<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ion:</p>
+               <p>And forasmuch as the Clerks and Atturnies in the <note place="margin">Irregular practices of the Clerks &amp; Attur<g ref="char:EOLhyphen"/>nies of the Sheriffs Courts in commen<g ref="char:EOLhyphen"/>cing and removing Causes out of the City, and becoming Bail for their Clients.</note>
+                  <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>heriffs Courts of this City (contrary to several Orders of the Court of Aldermen, and Acts of this <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ourt of Common Council) do either advise their <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>lients, Citizens of <hi>London,</hi> to commence their <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ions in other Courts, or else, whenas Causes are <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>epared ready for Trial in the Sheriffs Courts of <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>e said City, do cause them to be removed by Writs <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>to such other Courts where they are likewise At<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>rnies, and there their Clients be enforced to begin <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>pon a new Charge, to the great Abuse of Citizens, <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>d discouraging of the Fréemen of the said City to <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>mmence their Suits in <hi>London,</hi> where they are <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ost properly determinable:</p>
+               <p>For remedy hereof for the future, Be it Enacted, <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>rdained and Established, by the Right Honourable <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>e Lord Mayor, the right Worshipful the Alder<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>en, his Brethren, and the Commons, in this <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ommon Council assembled, and by the Authority <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> the same, That no person, or persons, be at any <note place="margin">None but Freemen shall be admitted Of<g ref="char:EOLhyphen"/>ficers, Clerks and Atturnies in the Courts of the City▪ for the future.</note>
+                  <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>me hereafter admitted into any the Places or <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ffices of Secondaries of the Compters, Clerks <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> Atturnies in the Mayors Court, Clerk of the <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>apers, Clerk-sitters, Atturnies in the Sheriffs <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ourts, of this City, Serjeants or Yeomen of the <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ompters, but that he or they do first take his or <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>eir Fréedome of this City, according to former <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>s and Orders of Common Council.</p>
+               <p>And forasmuch as it is observed, that the Clerks <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>d Atturnies of the Mayors and Sheriffs Courts of <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>is City do bréed and bring up under them a mul<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ude of young Clerks, taking with them conside<g ref="char:EOLhyphen"/>rable
+<pb n="4" facs="tcp:204619:4"/> summs of money, but for shorter terms the<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> hath béen accustomed within this City; and that the Atturnies, Clerks and Officers, of an<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> belonging to the Sheriffs of <hi>London,</hi> and the She<g ref="char:EOLunhyphen"/>riffs Courts, do often tender themselves to the De<g ref="char:EOLunhyphen"/>fendants arrested in their Courts, to become thei<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> Bail, whereby to oblige them the more to follow thei<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+                  <note place="margin">Inconveniences of Atturnies &amp; Officers being Bail for their Clients.</note> Advice in consenting to the Removal of their Causes<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> and whereby, in case of the Defendants absentin<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> himself, all possible means are used to delay and dis<g ref="char:EOLunhyphen"/>appoint the Plaintiffs in their just Suits, to thei<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> great wrong, and abuse of Iustice:</p>
+               <p>Be it therefore Ordained, Enacted and Establishe<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> by the said Lord Mayor, Aldermen, and Commons<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+                  <note place="margin">None shall be ad<g ref="char:EOLhyphen"/>mitted a Clerk or Atturny in the Courts unless he have served seven years.</note> in this Common Council assembled, and by th<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> Authority of the same, That no person or person<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> whatsoever be henceforth at any time admitted,<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> capable to be admitted, a Clerk or Atturny in th<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> said Mayors Court, or in either of the said Sheriff<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> Courts of this City, before he or they shall <hi>bona fid<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>
+                  </hi> have served some Master-Clerk or Atturny in on<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> of the Courts of this City, as a Clerk, the fu<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> term of seven years; And that every or any Gran<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+                  <note place="margin">Every Admission to the contrary shall be void.</note> or Admission, that shall happen at any time her<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> after to be made contrary to this Act, shall be nu<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> and void, as if it never had béen made: And th<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> no Atturny, Clerk, or Officer, of or belonging to th<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+                  <note place="margin">No Atturnie, Clerk, or Officer, to become Bail.</note> Mayors Court or Sheriffs Courts, or their Clerk<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> or Servants, nor any of them, do or shall, at an<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> time from and after the twenty third day of <hi>Octobe<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>
+                  </hi> instant, presume to become Bail for any person or pe<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>sons whatsoever, in any Action, Attachment, or othe<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> Suit or Cause whatsoever, that shall be entered, com<g ref="char:EOLunhyphen"/>menced, or depending, in the said Mayors Cou<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> or Sheriffs Courts; And that neither the Clerk<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+                  <pb n="5" facs="tcp:204619:4"/>
+                  <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>he Bails in the Mayors Court, nor Clerks of the Papers, nor Clerk-sitters of the said Sheriffs Courts, nor any of them, nor their or any of their Clerks or Servants, nor any other whose duty it is to take the Bails, do presume, from and after <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>he said twenty third day of <hi>October</hi> instant, to take, <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>cept, and enter upon Record, any of the said At<g ref="char:EOLhyphen"/>turnies, Clerks, or Officers, or any of their Clerks <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>r Servants, for the Bail of any person or persons whatsoever, or their or any of their Promise or En<g ref="char:EOLhyphen"/>gagement, to save harmless such Clerk or other Of<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>icer, for taking of any other person or persons to <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>e Bail in any Cause whatsoever, to be therein de<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ending.</p>
+               <p>And to the end that the said City-Courts, as well <note place="margin">None but Subsidy-men, or persons of like quality, to be Jurors.</note>
+                  <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>he Mayors as the Sheriffs Courts, may be supplied <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>om time to time with able and sufficient Iury<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>en, Be it farther Ordained and Enacted by the said <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ord Mayor, Aldermen, and Commons, in Com<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>on Council assembled, and by the Authority of the <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>me, That no person or persons whatsoever be at <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>y time hereafter returned, by any the Inquests of <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>he Wards of this City, to serve as Iury-man, or <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ury-men, either Grand, or Petty, in the Courts of <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>his City, but such men as either have béen, or for <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>me to come shall be, Subsidy-men, and so taxed in <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>he <hi>KING</hi>'s Books; or, in default thereof, such <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ther discréet and sufficient persons as shall be <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>qual in Quality▪ and Estate with them: And that <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>he Issues upon Default of Iury-mens Appearan<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>s be constantly levied, and duly and truly answered. <note place="margin">The Mayors Court, being a Court of Law and Equity, and su<g ref="char:EOLhyphen"/>perior to the Sherifs Courts, hath power of Levating Causes out of those Courts.</note>
+               </p>
+               <p>And whereas the said Court, called the Lord <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ayors Court, is an ancient Court of Record, <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>herein Causes, both of Law and Equity, and also <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ttachments, are determinable, and the same Court
+<pb n="6" facs="tcp:204619:5"/> is superiour to the Sheriffs Courts; And wherea<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> also the Lord Mayor for the time being, of ancien<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> Custome and constant practice, hath, and time where<g ref="char:EOLunhyphen"/>of the memory of man is not to the contrary ever had power and authority, by his Warrant called a <hi>Leve<g ref="char:EOLunhyphen"/>tur Querela,</hi> to remove Causes from and out of th<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> Sheriffs Courts into the Lord Mayors Court, with<g ref="char:EOLunhyphen"/>out any restriction or limitation of time, so as th<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> same <hi>Levetur</hi> be brought before the Iury, or any o<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> them, (summoned for trial of such Cause or Causes▪ shall be sworn; And whereas of very late time suc<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+                  <hi>Levetur</hi> hath béen often disallowed, contrary to th<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> said ancient Vsage, and in Contempt of the sai<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> Mayors Court, upon several new pretences, neve<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> heard of till of late time, whereby Clients are ne<g ref="char:EOLunhyphen"/>cessitated (especially where they have cause to appea<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> to Equity) to remove their Suits out of <hi>London</hi> i<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> to other Courts, whereas they might otherwise b<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> relieved in the Lord Mayors Court, with far less<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> Charge and greater Expedition:</p>
+               <p>For remedy hereof it is Ordained, Enacted an<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+                  <note place="margin">
+                     <hi>No Judge or Clerk of the Sheriffs Courts shall disallow any <hi>
+                           <gap reason="illegible" resp="#keyers" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>evetur</hi> brought be<g ref="char:EOLhyphen"/>fore the Jury sworn.</hi>
+                  </note> Established, by the said Lord Mayor, Aldermen, an<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> Commons, in this Common Council assembled and by Authority of the same, That at all times her<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> after the said Warrant of <hi>Levetur Querela,</hi> unde<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> the hand of the Lord Mayor or Recorder of the Cit<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> of <hi>London</hi> for the time being, for removing of an<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> Plaint, Attachment, or other Cause or Causes, lev<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>ed or depending in either of the Sheriffs Courts<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> this City, into the Mayors Court, (being brough<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> by a Serjeant at Mace and Minister<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> of the Mayor<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> Court to the said Sheriffs Courts, either at th<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+                  <hi>Guild-Hall</hi> or <hi>Compter,</hi> at any time before the Iur<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> or any of them, shall be sworn for trial of such Caus<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> or Causes,) shall be presently obeyed and allowed o<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+                  <pb n="7" facs="tcp:204619:5"/> And that neither the Iudge, nor any Clerk or Offi<g ref="char:EOLhyphen"/>cer, of either of the said Sheriffs Courts, do at any time hereafter presume to reject or disallow of any such <hi>Levetur Querela,</hi> so brought or tendered un<g ref="char:EOLhyphen"/>to him or them, upon any pretence whatsoever, other then in case of a farther Order or Warrant, by and under the Hand of the Lord Mayor or Recor<g ref="char:EOLhyphen"/>der for the time being, in that behalf first had and obtained, as anciently hath béen used and ac<g ref="char:EOLhyphen"/>customed.</p>
+               <p>And to prevent the daily Inconveniences happen<g ref="char:EOLhyphen"/>ing <note place="margin">The Novel device<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>▪ Continuances con<g ref="char:EOLhyphen"/>demned and remedi<g ref="char:EOLhyphen"/>ed.</note> in Suits now depending, or hereafter to be depen<g ref="char:EOLhyphen"/>ding, in the Courts of the said Sheriffs, by reason of the great Delays they méet with there by putting off of Causes, under pretence of Continuances entered by the Atturnies on both sides, for the most part at the very time they should be tried, without the Con<g ref="char:EOLhyphen"/>sents of the Parties Clients, contrary to the ancient practice and usage of the said Courts, whereby the Cli<g ref="char:EOLhyphen"/>ent is delayed, Witnesses and Iury-men discouraged, by frequent and fruitlesse Attendances, to the in<g ref="char:EOLhyphen"/>tolerable Expence of the Suitor: For the preventing hereof for the future,</p>
+               <p>Be it Enacted by the said Lord Mayor, Aldermen, and Commons, in this Common Council assembled, and by Authority of the same, that no Cause or Causes in either of the Sheriffs Courts be at any time hereafter, from and after Issue joyned, put off from Trial by pretence of any such Continuances entered, or hereafter to be entered, by consent of the Atturnies on either part, but upon motion thereof <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>irst made in open Court, and for some just and rea<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>onable cause to be shewed and allowed upon Oath <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>efore the Iudge of the same Court, and upon pay<g ref="char:EOLhyphen"/>ment
+<pb n="8" facs="tcp:204619:6"/> of such Costs to the party thereby delayed as the Court shall sée cause to tax and allow; And that no Clerk do henceforth presume to enter any Con<g ref="char:EOLhyphen"/>tinuance in any Cause summoned for Trial, with<g ref="char:EOLhyphen"/>out the special Order and Directions of the Iudge of the Court in that behalf first had, as aforesaid; And that no Fée be henceforth demanded, taken, or allowed, by or to any of the Atturnies of the She<g ref="char:EOLhyphen"/>riffs <note place="margin">No Fee upon a Con<g ref="char:EOLhyphen"/>tinuance.</note> Courts aforesaid, for or in respect of the putting off of any Trail, under the pretence of such Conti<g ref="char:EOLhyphen"/>nuance entered, or hereafter to be entered, as afore<g ref="char:EOLhyphen"/>said, upon pein, that every Atturny so demanding, taking, or receiving, shall for every such Offence, <note place="margin">Penalty.</note> for the first time, forfeit the summe of five pounds, and for the second, to be finally discharged of and from his place of Atturny in the said Sheriffs Courts.</p>
+               <p>And to prevent the great Mischiefs now daily growing and increasing in the said Sheriffs Courts <note place="margin">What Costs shall be taxed in the Sheriffs Courts, and how, for avoiding the pre<g ref="char:EOLhyphen"/>sent Abuses in that ease.</note> by excessive Costs taxed upon Iudgements there given, by the consent, for the most part, of the Attur<g ref="char:EOLhyphen"/>nies of both sides, contrary to the usage of all for<g ref="char:EOLhyphen"/>mer Ages, Be it Enacted by the said Lord Mayor, Aldermen, and Commons, in this Common Coun<g ref="char:EOLhyphen"/>cil assembled, and by Authority of the same, That no Bill of Costs, excéeding the summe of four and twenty shillings for the Trial of a Grand-Iury Cause, or excéeding the summe of twenty two shil<g ref="char:EOLhyphen"/>lings for the Trial of a Petit-Iury Cause, shall at any time hereafter charge the Client of either side: Neverthelesse it shall and may be lawful for the Iudges of the said Courts respectively, for good and reasonable cause shewed to them respectively by the Parties of either side, upon due examination of
+<pb n="9" facs="tcp:204619:6"/> the circumstances of the Case, (in the presence of both Parties,) to increase the said Costs of Suit by their discretions, by special Rule of Court to be entered for that purpose, expressing the cause why such Costs are so increased: And upon complaint made by any person of greater Charges then as a<g ref="char:EOLhyphen"/>foresaid, and producing the Bill under the Attur<g ref="char:EOLhyphen"/>nies hand, or other Witnesse, that the respective Iudges of the same Court punish the Offender, and relieve the party grieved, according to their good discretions, and the Rules aforesaid: And that no Officer of either of the said Courts shall presume to make out Execution upon any Iudgement, where<g ref="char:EOLhyphen"/>in the Costs of Suit shall excéed the summs afore<g ref="char:EOLhyphen"/>said respectively, without such special Rule as a<g ref="char:EOLhyphen"/>foresaid to warrant the same, on pein to forfeit for <note place="margin">Penalty.</note> his first Offence five pounds, to the relief of the Prisoners of that Compter wherein the Action shall be entered; and for the second Default, to be expelled the Court for ever.</p>
+               <p>And to prevent the daily Abuses of the Serjeants and <note place="margin">For redresse of sun<g ref="char:EOLhyphen"/>dry Abuses commit<g ref="char:EOLhyphen"/>ted by the Serjeants and Yeomen.</note> Yeomen of the Sheriffs, sometimes in permitting persons arrested by them to goe at large without Bail, sometimes in kéeping them in Ale-houses, or some other private places, and not returning the Pro<g ref="char:EOLhyphen"/>cesse in due time (by which the parties were arrested,) so that the Plaintiff is delayed, and the Prisoner, by the extortion of the said Serjeants and Yeomen, oftentimes put to a greater Expence then will dis<g ref="char:EOLhyphen"/>charge the originall Cause of Action, and sometimes by discharging persons by them duly arrested, with<g ref="char:EOLhyphen"/>out causing the Actions whereon they were so arrested to be withdrawn, although they take money from the Defendant sufficient to do the same with, and some<g ref="char:EOLhyphen"/>times
+<pb n="10" facs="tcp:204619:7"/> in not duly returning Executions by them executed, or by discharging persons taken in Exe<g ref="char:EOLhyphen"/>cution before Satisfaction be entered upon Record, whereby the said persons are oftentimes doubly charged for the same Debt; Be it therefore Enacted by the Authority aforesaid, That the Serjeants and Yeomen of the said Sheriffs, and every of them, shall from time to time, and at all times hereafter, make due Returns into the said She<g ref="char:EOLhyphen"/>riffs Courts of all the Precepts of the said Courts to them to be directed, at the next Court after the Execution of the same Precepts: and that all persons by them to be arrested by vir<g ref="char:EOLhyphen"/>tue of the said Precepts, or any of them, shall be either delivered upon good and sufficient Bail, or, in default thereof, by him or them committed to some of the Prisons within the said City, at or before the next Court to be holden after such Arrest so to be made, to the end the party Plain<g ref="char:EOLhyphen"/>tiffe may procéed in his Action according to Law: and that none of the said Officers presume to dis<g ref="char:EOLhyphen"/>charge any person or persons so by him arrested, after Agréements made betwéen the parties, till such time as the said Officer shall have caused ei<g ref="char:EOLhyphen"/>ther the Action to be withdrawn, or Satisfaction to be acknowledged on Record, as the case shall re<g ref="char:EOLhyphen"/>quire. And if any of the said Officers shall here<g ref="char:EOLhyphen"/>after offend in any of the cases aforesaid, and shall be thereof convicted by Examination of the Iudge in open Court, upon complaint of the parties grieved, or, in default thereof, by any other who shall inform the same, That then, and in every such case, the said Officer or Officers so offending shall, for the first Offence, be by the said Iudge
+<pb n="11" facs="tcp:204619:7"/> forthwith committed to the Compter, there to remain till he shall have paid down the summe of five pounds, the one moiety to the party grie<g ref="char:EOLhyphen"/>ved, or, in default of Information to be given by him or them; as aforesaid, then to such other person or persons who shall inform the same to the said Court, over and besides such Remedy as the said party grieved may have by his or their Actions at Law against the said Officers, or any of them, for any of the Defaults aforesaid, and the other moiety to the relief of the poor Prisoners in such of the said Compters wherein the said Cause is or shall be entered: and if any of the said Officers, after he or they shall have béen once convicted of any of the Offences aforesaid, shall presume to offend in any of the said cases the se<g ref="char:EOLhyphen"/>cond time, and be thereof convicted, as aforesaid, That then, and in every such case, the said Offen<g ref="char:EOLhyphen"/>der, over and above all other Penalties herein a<g ref="char:EOLhyphen"/>bove limited and appointed, shall be <hi>ipso facto</hi> absolutely discharged from his said Office; and the Sheriffs of the City for the time being are here<g ref="char:EOLhyphen"/>by impowered and required to nominate and pre<g ref="char:EOLhyphen"/>sent to the Court of Aldermen some other fit<g ref="char:EOLhyphen"/>ting person, to be by them admitted in his or their places, as if the persons so offending and convicted, as aforesaid, were naturally dead.</p>
+               <p>Provided alwayes, that no Informer shall be any wayes intituled to the moiety of the said five pounds, or any part thereof, unlesse the said Of<g ref="char:EOLhyphen"/>fender
+<pb n="12" facs="tcp:204619:8"/> shall be convicted by the Evidence of one or more persons indifferent, and unconcerned to the profit or prejudice coming by the Default of the said Officer.</p>
+               <closer>
+                  <signed>Avery.</signed>
+               </closer>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>Printed by <hi>James Flesher,</hi> Printer to the Ho<g ref="char:EOLhyphen"/>nourable City of <hi>LONDON,</hi> 1669.</p>
+            <pb facs="tcp:204619:8"/>
+         </div>
+      </back>
+   </text>
+</TEI>
